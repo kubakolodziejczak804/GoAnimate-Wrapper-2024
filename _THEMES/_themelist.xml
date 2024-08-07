@@ -6,6 +6,9 @@
 	<theme id="infographics" name="Video Infographics" thumb="" cc_theme_id="infographics" />
 	<theme id="custom" name="Comedy World" thumb="" cc_theme_id="custom" />
 	<theme id="kuba" name="Kuba's World" thumb="" cc_theme_id="kuba" />
+        <theme id="import" name="Imported Assets" thumb="" cc_theme_id="import" />
+        <theme id="sml" name="SuperMarioLogan" thumb="" cc_theme_id="sml" />
+        <theme id="christian a" name="Christian A World" thumb="" cc_theme_id="christian a" />
         <theme id="Community" name="Community Library" thumb="" cc_theme_id="Community" />
         <theme id="yugandar" name="Yugandar's World" thumb="" cc_theme_id="yugandar" />
         <theme id="chrisayaogamer" name="ChrisAyaoGamer Roblox!" thumb="" cc_theme_id="chrisayaogamer" />
